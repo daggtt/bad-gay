@@ -200,7 +200,7 @@ while x != 0:
      print()
     elif n =='no' and 'NO' and 'No':  
        print('wtf', 'wtf','wtf','wtf','wtf','wtf','wtf','wtf', 'wtf','wtf','wtf','wtf','wtf','wtf')
-          break                  
+       break                  
     else:
        break
     print(x, "-7=", x - 7, sep ="")
