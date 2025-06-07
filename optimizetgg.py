@@ -199,12 +199,8 @@ while x != 0:
     if n == 'yes' and 'YES' and 'Yes':
      print()
     elif n =='no' and 'NO' and 'No':  
-       while t < 100:  
-        if t > 100:
-          break
-        print('wtf')  
-        t = t+1
-                           
+       print('wtf', 'wtf','wtf','wtf','wtf','wtf','wtf','wtf', 'wtf','wtf','wtf','wtf','wtf','wtf')
+          break                  
     else:
        break
     print(x, "-7=", x - 7, sep ="")
